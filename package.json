@@ -12,6 +12,7 @@
   "dependencies": {
     "express": "^4.17.1",
     "express-react-views": "^0.11.0",
+    "node": "^14.2.0",
     "nodemon": "^2.0.3",
     "npm": "^6.14.5",
     "react": "^16.12.0",
